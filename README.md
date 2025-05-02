@@ -22,7 +22,11 @@ This project showcases a **Smart Energy Harvesting System** that utilizes a piez
 
 ## 🧱 Block Diagram
 
-## 📐 Circuit Description
+![Smart Energy Harvesting Block Diagram](https://github.com/user-attachments/assets/ef2d6608-d1ea-4d91-a88b-883180663c6d)
+
+## 📐 Circuit Diagram and Description
+
+![Smart Energy Harvesting Circuit Diagram](https://github.com/user-attachments/assets/86fd7a6c-14ad-459d-9228-74494133c04d)
 
 🔹 Components:
 
