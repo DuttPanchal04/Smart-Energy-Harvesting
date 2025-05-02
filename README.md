@@ -38,6 +38,8 @@ This project showcases a **Smart Energy Harvesting System** that utilizes a piez
 - Capacitors – Smooth voltage (100µF/220µF).
 - Breadboard & Wires – Prototyping.
 
+( Refer Datasheets attached at the end of report )
+
 ## 🔧 Working Principle
 
 - Mechanical force on the piezoelectric sensor generates AC voltage.
